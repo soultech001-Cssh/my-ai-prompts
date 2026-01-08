@@ -5,14 +5,18 @@
 Welcome! I am an AI enthusiast dedicated to exploring the boundaries of prompt engineering. This repository serves as a personal laboratory for refining, optimizing, and structuring AI prompts to achieve high-quality, predictable results.
 
 ## 🌟 Core Focus
-- **Camera Simulations**: Recreating specific photographic textures (e.g., Sony a6100 style).
+- **Hardware Simulation**: Reconstructing the unique aesthetics of specific camera sensors and film stocks.
 - **Structured Prompting**: Using JSON and advanced engines to guide AI with precision.
 - **Multi-Model Optimization**: Adapting prompts for Midjourney, Z-Image, Gemini, and more.
 
-## 📸 Featured Showcase: Sony a6100 Simulation
-One of my primary projects involves simulating the unique photographic aesthetic of the Sony a6100 camera. This includes detailed JSON structures designed to replicate its scene selections and sensor characteristics.
+## 📸 Featured Showcase: Camera & Lens Simulation
+A major part of my research focuses on the digital reconstruction of hardware aesthetics. By analyzing the color science, dynamic range, and lens textures of various cameras, I develop structured prompts to replicate their unique "soul," including:
+- **Modern Mirrorless**: Replicating the high-fidelity textures of series like the **Sony Alpha** (e.g., a6100).
+- **Film Aesthetics**: Simulating the organic grain and color profiles of iconic film stocks.
+- **Vintage Optics**: Exploring the distinctive bokeh and flare of classic manual lenses.
 
 ## 📂 Project Structure
+- `/Camera-Styles`: Detailed templates for various hardware simulations.
 - `/Midjourney`: SREF codes and artistic style references.
 - `/Z-Image`: Multi-language and high-fidelity generation experiments.
 - `/LLM-Prompts`: Logical reasoning and data processing templates.
