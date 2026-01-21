@@ -3,7 +3,7 @@
 这是一个模拟胶片日记/拍立得风格的提示词案例。
 
 ## 效果预览
-![Sample Image](./Gemini_Film_Diary_Fragments_of_Youth.png)
+![Sample Image](./Gemini_Film Diary Fragments of Youth.png)
 
 ## 灵感来源 (Credits)
 本案例的构思 (Idea) 来源于 X (Twitter) 平台上的两位优秀创作者，我在其基础上进行了二次创作：
